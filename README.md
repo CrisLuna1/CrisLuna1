@@ -36,7 +36,7 @@ I enjoy everything about computers, artificial intelligence and the things achie
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=he1ox&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
 </a>
 
-<a href="https://github.com/he1ox/convoychat">
+<a href="https://github.com/CrisLuna1/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=he1ox&hide=assembly,pawn&theme=radical" />
 </a>
 
