@@ -4,12 +4,9 @@
 JR - 16012022. 
 `
 
-I am currently studying Systems Engineering. :neckbeard:
+I am currently studying Systems Engineering. 
 
 I like the development/maintenance of applications, databases and computer security.
-
-I have some goals that by the end of this year which is to learn and manage databases and application development/maintenance, and for next year I will start making arrangements for a JR job.
-
 
 If you have read this, I thank you for reading and I also encourage you to keep going and never get discouraged.
 I LOVE YOU <3
