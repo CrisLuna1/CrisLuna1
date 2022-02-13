@@ -11,7 +11,6 @@ I like the development/maintenance of applications, databases and computer secur
 If you have read this, I thank you for reading and I also encourage you to keep going and never get discouraged.
 I LOVE YOU <3
 
-## Contact
 
 <p>
   
